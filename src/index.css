@@ -1,0 +1,30 @@
+body {
+    padding: 0;
+    margin: 0;
+    background-color: bisque;
+}
+
+#body {
+    width: 400px;
+    min-width: 400px;
+    margin: 25px auto;
+    overflow: hidden;
+    border-radius: 20px;
+}
+
+#bg-img {
+    width: 400px;
+    margin-bottom: -50px;
+    position: relative;
+    margin-top: -150px;
+}
+
+#content {
+    width: 400px;
+    height: auto;
+    background-color: black;
+    border-radius: 20px;
+    position: relative;
+    padding: 10px 0;
+    color: white;
+}
